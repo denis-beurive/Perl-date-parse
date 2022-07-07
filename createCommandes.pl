@@ -32,7 +32,7 @@ use lib '.';
 use strict;
 use Getopt::Long;
 use DateTime;
-use dateParse;
+use DateParse;
 
 # ----------------------------------------------------------------------
 # Variables

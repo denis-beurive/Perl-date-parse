@@ -1,4 +1,4 @@
-package dateParse;
+package DateParse;
 use strict;
 use warnings FATAL => 'all';
 use Exporter;
